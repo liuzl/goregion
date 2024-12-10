@@ -1,0 +1,1 @@
+wget 'https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/raw/refs/heads/master/slim-2/slim-2.json' -O slim-2.json
