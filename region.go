@@ -31,3 +31,7 @@ func init() {
 func FindRegionByAlpha2(alpha2 string) *Region {
 	return regions[alpha2]
 }
+
+func GetAllRegions() map[string]*Region {
+	return regions
+}
